@@ -1,4 +1,4 @@
-const API_KEY = "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"; // WARNING: Never hardcode API keys in production!
+const API_KEY = ""; // 
 const API_URL = "https://api.groq.com/openai/v1/chat/completions";
 
 const chatDisplay = document.getElementById("chat-display");
